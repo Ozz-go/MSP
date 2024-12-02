@@ -1037,3 +1037,8 @@ com.google.gson.JsonSyntaxException: Block Block{excompressum:mana_sieve} has no
 [02Dec2024 23:15:32.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf joined the game
 [02Dec2024 23:15:32.367] [Server thread/INFO] [Waila/]: Syncing config to Wattsf (962797dd-cd4c-3e9b-afd5-45510eb216a1)
 [02Dec2024 23:15:46.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
+[02Dec2024 23:31:18.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf was blown up by Creeper
+[02Dec2024 23:31:34.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> al lado de mi cama
+[02Dec2024 23:32:07.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> 1000 bloques
+[02Dec2024 23:35:26.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wattsf moved too quickly! 9.233609538515338,0.5764407054569602,4.028113559633198
+[02Dec2024 23:36:07.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DustDoky has made the advancement [Hot Stuff]

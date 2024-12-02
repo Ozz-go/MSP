@@ -10232,3 +10232,27 @@ com.google.gson.JsonSyntaxException: Block Block{excompressum:mana_sieve} has no
 [02Dec2024 23:15:46.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
 [02Dec2024 23:16:00.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Rancho
 [02Dec2024 23:16:00.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Rancho
+[02Dec2024 23:21:00.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Rancho
+[02Dec2024 23:21:00.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Rancho
+[02Dec2024 23:26:00.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Rancho
+[02Dec2024 23:26:01.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Rancho
+[02Dec2024 23:30:54.917] [Worker-Main-19/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-76 | 36 | 1236).
+[02Dec2024 23:30:54.917] [Worker-Main-19/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[02Dec2024 23:30:54.917] [Worker-Main-19/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[02Dec2024 23:30:54.918] [Worker-Main-19/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[02Dec2024 23:30:54.918] [Worker-Main-19/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[02Dec2024 23:30:54.918] [Worker-Main-19/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[02Dec2024 23:30:54.918] [Worker-Main-19/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 6(4) Nodes and 4(0) Rooms
+[02Dec2024 23:30:54.918] [Worker-Main-19/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[02Dec2024 23:30:54.920] [Worker-Main-19/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(4) Nodes and 4(0) Rooms
+[02Dec2024 23:30:54.920] [Worker-Main-19/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[02Dec2024 23:30:54.921] [Worker-Main-19/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 5(0) Rooms
+[02Dec2024 23:31:00.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Rancho
+[02Dec2024 23:31:00.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Rancho
+[02Dec2024 23:31:18.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf was blown up by Creeper
+[02Dec2024 23:31:34.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> al lado de mi cama
+[02Dec2024 23:32:07.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> 1000 bloques
+[02Dec2024 23:35:26.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wattsf moved too quickly! 9.233609538515338,0.5764407054569602,4.028113559633198
+[02Dec2024 23:36:00.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Rancho
+[02Dec2024 23:36:00.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Rancho
+[02Dec2024 23:36:07.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DustDoky has made the advancement [Hot Stuff]
