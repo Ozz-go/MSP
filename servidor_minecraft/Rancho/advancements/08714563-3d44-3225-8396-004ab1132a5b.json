@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_large_dungeon": "2024-12-02 21:22:16 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:33:56 +0000"
@@ -169,6 +175,12 @@
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:33:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2024-12-02 21:22:16 +0000"
     },
     "done": true
   },
@@ -266,6 +278,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-02 19:24:11 +0000",
       "minecraft:spider": "2024-12-02 20:17:03 +0000",
+      "minecraft:creeper": "2024-12-02 21:26:30 +0000",
       "minecraft:silverfish": "2024-12-02 20:51:26 +0000",
       "minecraft:zombie": "2024-12-02 19:31:33 +0000"
     },
@@ -455,6 +468,12 @@
       "has_the_recipe": "2024-12-02 18:33:56 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_large_dungeon": "2024-12-02 21:22:16 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_light_blue": {
     "criteria": {
