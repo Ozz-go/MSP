@@ -253,6 +253,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-02 19:03:33 +0000",
       "minecraft:spider": "2024-12-02 19:03:49 +0000",
+      "minecraft:cave_spider": "2024-12-02 19:47:59 +0000",
       "minecraft:zombie": "2024-12-02 19:31:10 +0000"
     },
     "done": false
@@ -272,6 +273,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-02 18:59:40 +0000",
+      "cooked_mutton": "2024-12-02 19:41:25 +0000",
+      "potato": "2024-12-02 19:46:45 +0000",
       "mutton": "2024-12-02 19:18:15 +0000",
       "bread": "2024-12-02 19:21:07 +0000"
     },
@@ -358,6 +361,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-02 19:53:13 +0000"
     },
     "done": true
   },

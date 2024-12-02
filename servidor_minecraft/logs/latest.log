@@ -877,3 +877,43 @@ com.google.gson.JsonSyntaxException: Block Block{excompressum:mana_sieve} has no
 [02Dec2024 19:41:01.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> por eso u8n futuro donde caer
 [02Dec2024 19:41:30.245] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Compressed Skeleton'/19143, l='ServerLevel[Rancho]', x=-242.03, y=-34.00, z=279.10] died: Compressed Skeleton was slain by DustDoky
 [02Dec2024 19:41:50.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[02Dec2024 19:43:01.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[02Dec2024 19:43:20.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4294ms or 85 ticks behind
+[02Dec2024 19:43:23.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ang was blown up by Creeper
+[02Dec2024 19:44:39.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wattsf moved too quickly! -1224.317874565534,-47.0,-811.0208901736057
+[02Dec2024 19:44:50.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky moved too quickly! 8.006907118602115,4.649929764355889,-142.17322070100002
+[02Dec2024 19:44:53.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Dec2024 19:45:04.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky moved too quickly! -11.605581051648329,2.0,-160.23916521277425
+[02Dec2024 19:45:10.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
+[02Dec2024 19:45:24.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zvnwho moved too quickly! 261.79899174051303,46.0,1.800000011920929
+[02Dec2024 19:45:32.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> va bien
+[02Dec2024 19:45:50.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1098, y=125, z=1042} BlockPos{x=1098, y=123, z=1042}
+[02Dec2024 19:45:52.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1101, y=124, z=1046} BlockPos{x=1102, y=122, z=1047}
+[02Dec2024 19:45:54.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1104, y=124, z=1048} BlockPos{x=1104, y=122, z=1048}
+[02Dec2024 19:46:11.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky moved too quickly! 11.620177834529372,6.0,-66.27163700007583
+[02Dec2024 19:46:20.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky moved too quickly! 29.974548053238266,5.0,-74.14082231198444
+[02Dec2024 19:46:30.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky moved too quickly! 54.925251802015055,5.0,-68.97723285513797
+[02Dec2024 19:52:20.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wattsf lost connection: Timed out
+[02Dec2024 19:52:20.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf left the game
+[02Dec2024 19:52:20.352] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 19:53:13.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ang has made the advancement [Isn't It Iron Pick]
+[02Dec2024 19:55:16.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ang was blown up by Creeper
+[02Dec2024 19:56:08.889] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@58364ed3
+[02Dec2024 19:56:08.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wattsf[/[0:0:0:0:0:0:0:1%0]:45846] logged in with entity id 29597 at (747.7137224707383, 63.0, 781.0056479600796)
+[02Dec2024 19:56:08.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf joined the game
+[02Dec2024 19:56:08.966] [Server thread/INFO] [Waila/]: Syncing config to Wattsf (962797dd-cd4c-3e9b-afd5-45510eb216a1)
+[02Dec2024 19:56:45.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Compressed Skeleton'/30155, l='ServerLevel[Rancho]', x=-242.50, y=-34.00, z=278.85] died: Compressed Skeleton was slain by DustDoky
+[02Dec2024 19:58:55.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ang was shot by Skeleton
+[02Dec2024 19:59:52.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has made the advancement [Diamonds!]
+[02Dec2024 20:00:07.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[02Dec2024 20:02:36.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ang was shot by Skeleton
+[02Dec2024 20:02:54.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=66, z=178}
+[02Dec2024 20:02:54.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=67, z=178}
+[02Dec2024 20:02:54.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=66, z=178}
+[02Dec2024 20:02:54.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=66, z=178}
+[02Dec2024 20:02:54.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=66, z=178}
+[02Dec2024 20:02:55.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=66, z=178}
+[02Dec2024 20:02:55.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=66, z=178}
+[02Dec2024 20:02:55.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=66, z=178}
+[02Dec2024 20:02:56.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=66, z=178}
+[02Dec2024 20:03:27.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind

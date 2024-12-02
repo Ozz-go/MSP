@@ -109,6 +109,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lukewarm_ocean": "2024-12-02 19:52:10 +0000",
       "minecraft:savanna": "2024-12-02 18:31:36 +0000"
     },
     "done": false
@@ -390,6 +391,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-02 19:59:52 +0000"
     },
     "done": true
   },
