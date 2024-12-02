@@ -972,3 +972,17 @@ com.google.gson.JsonSyntaxException: Block Block{excompressum:mana_sieve} has no
 [02Dec2024 22:20:46.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf was slain by Spider
 [02Dec2024 22:20:52.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
 [02Dec2024 22:23:25.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Compressed Cave Spider'/56413, l='ServerLevel[Rancho]', x=148.44, y=34.50, z=699.35] died: Compressed Cave Spider was shot by zvnwho
+[02Dec2024 22:27:37.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mydady7u7 has made the advancement [Getting an Upgrade]
+[02Dec2024 22:28:25.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DustDoky> 120 27 728
+[02Dec2024 22:28:26.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: St00ck lost connection: Timed out
+[02Dec2024 22:28:26.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck left the game
+[02Dec2024 22:32:07.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> 128 -13 716
+[02Dec2024 22:34:24.132] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky lost connection: Timed out
+[02Dec2024 22:34:24.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DustDoky left the game
+[02Dec2024 22:34:24.181] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 22:34:46.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mydady7u7 was doomed to fall
+[02Dec2024 22:35:12.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Compressed Zombie'/59615, l='ServerLevel[Rancho]', x=127.70, y=-28.00, z=724.30] died: Compressed Zombie was shot by zvnwho
+[02Dec2024 22:35:15.227] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20011d42
+[02Dec2024 22:35:15.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: St00ck[/[0:0:0:0:0:0:0:1%0]:43910] logged in with entity id 62781 at (164.30000001192093, 26.0, 733.6999999880791)
+[02Dec2024 22:35:15.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck joined the game
+[02Dec2024 22:35:15.461] [Server thread/INFO] [Waila/]: Syncing config to St00ck (a822cdc3-4569-37ba-a83f-71001ad632cd)
