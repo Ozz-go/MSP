@@ -986,3 +986,14 @@ com.google.gson.JsonSyntaxException: Block Block{excompressum:mana_sieve} has no
 [02Dec2024 22:35:15.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: St00ck[/[0:0:0:0:0:0:0:1%0]:43910] logged in with entity id 62781 at (164.30000001192093, 26.0, 733.6999999880791)
 [02Dec2024 22:35:15.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck joined the game
 [02Dec2024 22:35:15.461] [Server thread/INFO] [Waila/]: Syncing config to St00ck (a822cdc3-4569-37ba-a83f-71001ad632cd)
+[02Dec2024 22:36:08.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mydady7u7 has made the advancement [Acquire Hardware]
+[02Dec2024 22:38:17.721] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3bb7c45b
+[02Dec2024 22:38:17.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DustDoky[/[0:0:0:0:0:0:0:1%0]:39754] logged in with entity id 63919 at (104.98021007618773, -4.0, 699.3032871405361)
+[02Dec2024 22:38:17.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DustDoky joined the game
+[02Dec2024 22:38:17.779] [Server thread/INFO] [Waila/]: Syncing config to DustDoky (08714563-3d44-3225-8396-004ab1132a5b)
+[02Dec2024 22:38:28.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> 127 721
+[02Dec2024 22:41:21.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zvnwho moved too quickly! -208.02100842966692,74.0,-531.3943575261184
+[02Dec2024 22:41:21.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mydady7u7 moved too quickly! -204.22306911939333,83.0,-545.0615169795335
+[02Dec2024 22:41:21.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky moved too quickly! -184.17347912088843,77.0,-522.8991704074438
+[02Dec2024 22:41:23.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wattsf moved too quickly! -1165.8628379004756,-51.25220334025373,-845.478903367956
+[02Dec2024 22:41:23.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: St00ck moved too quickly! -180.80000001192093,77.0,-523.8449988998029
