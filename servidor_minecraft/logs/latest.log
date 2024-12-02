@@ -1089,3 +1089,5 @@ com.google.gson.JsonSyntaxException: Block Block{excompressum:mana_sieve} has no
 [02Dec2024 17:27:21.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [02Dec2024 17:30:33.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has made the advancement [Stone Age]
 [02Dec2024 17:32:03.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has made the advancement [Getting an Upgrade]
+[02Dec2024 17:44:59.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: St00ck lost connection: Disconnected
+[02Dec2024 17:44:59.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck left the game
