@@ -1026,3 +1026,14 @@ com.google.gson.JsonSyntaxException: Block Block{excompressum:mana_sieve} has no
 [02Dec2024 22:59:46.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mydady7u7 lost connection: por chistosito
 [02Dec2024 22:59:46.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mydady7u7 left the game
 [02Dec2024 23:02:53.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has completed the challenge [Cover Me in Debris]
+[02Dec2024 23:10:22.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> yo sigo con la base
+[02Dec2024 23:10:40.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wattsf lost connection: Timed out
+[02Dec2024 23:10:40.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf left the game
+[02Dec2024 23:10:40.474] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 23:14:50.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zvnwho lost connection: Timed out
+[02Dec2024 23:14:50.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zvnwho left the game
+[02Dec2024 23:15:32.016] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4fbb9290
+[02Dec2024 23:15:32.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wattsf[/[0:0:0:0:0:0:0:1%0]:40206] logged in with entity id 77791 at (1120.4402062435, 117.0, 998.2212183431717)
+[02Dec2024 23:15:32.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf joined the game
+[02Dec2024 23:15:32.367] [Server thread/INFO] [Waila/]: Syncing config to Wattsf (962797dd-cd4c-3e9b-afd5-45510eb216a1)
+[02Dec2024 23:15:46.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
