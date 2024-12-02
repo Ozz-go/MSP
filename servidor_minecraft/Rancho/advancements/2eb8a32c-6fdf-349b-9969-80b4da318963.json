@@ -217,15 +217,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-02 19:38:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-02 19:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-02 19:38:44 +0000"
     },
     "done": true
   },
@@ -296,6 +296,7 @@
       "cooked_mutton": "2024-12-02 20:46:47 +0000",
       "cooked_beef": "2024-12-02 19:16:21 +0000",
       "golden_apple": "2024-12-02 20:04:41 +0000",
+      "rotten_flesh": "2024-12-02 21:17:58 +0000",
       "carrot": "2024-12-02 19:36:25 +0000"
     },
     "done": false
