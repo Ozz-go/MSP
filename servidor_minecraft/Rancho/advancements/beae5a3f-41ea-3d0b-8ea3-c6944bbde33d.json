@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_hay_storage": "2024-12-02 20:27:40 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:48:16 +0000"
@@ -451,6 +457,12 @@
       "has_the_recipe": "2024-12-02 18:48:16 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_hay_storage": "2024-12-02 20:27:40 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_light_blue": {
     "criteria": {
