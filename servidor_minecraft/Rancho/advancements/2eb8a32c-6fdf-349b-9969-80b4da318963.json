@@ -157,6 +157,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-02 20:19:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:36:39 +0000"
@@ -263,6 +269,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-02 19:18:33 +0000",
       "minecraft:spider": "2024-12-02 19:07:35 +0000",
+      "minecraft:creeper": "2024-12-02 20:18:06 +0000",
       "minecraft:wither_skeleton": "2024-12-02 20:03:58 +0000",
       "minecraft:cave_spider": "2024-12-02 20:04:36 +0000",
       "minecraft:enderman": "2024-12-02 19:09:31 +0000",
@@ -409,6 +416,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-02 20:15:47 +0000"
     },
     "done": true
   },

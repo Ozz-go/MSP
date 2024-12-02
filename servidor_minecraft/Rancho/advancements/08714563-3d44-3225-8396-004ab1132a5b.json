@@ -110,6 +110,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-02 18:37:36 +0000",
+      "minecraft:desert": "2024-12-02 20:12:37 +0000",
       "minecraft:savanna": "2024-12-02 18:33:56 +0000"
     },
     "done": false
@@ -147,6 +148,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-02 20:20:04 +0000"
     },
     "done": true
   },
@@ -249,6 +256,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-02 19:24:11 +0000",
+      "minecraft:spider": "2024-12-02 20:17:03 +0000",
       "minecraft:zombie": "2024-12-02 19:31:33 +0000"
     },
     "done": false
