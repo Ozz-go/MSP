@@ -115,6 +115,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2024-12-02 21:55:45 +0000",
       "minecraft:beach": "2024-12-02 18:37:36 +0000",
       "minecraft:lukewarm_ocean": "2024-12-02 21:13:27 +0000",
       "minecraft:forest": "2024-12-02 21:17:26 +0000",
@@ -157,6 +158,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-02 21:45:45 +0000"
     },
     "done": true
   },
@@ -243,6 +250,12 @@
       "has_the_recipe": "2024-12-02 18:33:56 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2024-12-02 21:52:46 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_black_from_white": {
     "criteria": {
@@ -471,6 +484,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_deep_crypt": "2024-12-02 21:52:46 +0000",
       "entered_large_dungeon": "2024-12-02 21:22:16 +0000"
     },
     "done": false

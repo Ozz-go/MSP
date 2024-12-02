@@ -116,10 +116,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-02 18:51:28 +0000",
+      "minecraft:sparse_jungle": "2024-12-02 21:57:13 +0000",
       "minecraft:lukewarm_ocean": "2024-12-02 19:10:41 +0000",
       "minecraft:river": "2024-12-02 18:51:44 +0000",
+      "minecraft:stony_shore": "2024-12-02 21:38:38 +0000",
+      "minecraft:forest": "2024-12-02 21:53:27 +0000",
       "minecraft:desert": "2024-12-02 18:51:39 +0000",
-      "minecraft:savanna": "2024-12-02 18:48:16 +0000"
+      "minecraft:savanna": "2024-12-02 18:48:16 +0000",
+      "minecraft:plains": "2024-12-02 21:39:41 +0000"
     },
     "done": false
   },
@@ -283,6 +287,7 @@
       "cooked_mutton": "2024-12-02 19:41:25 +0000",
       "cooked_beef": "2024-12-02 20:50:17 +0000",
       "beef": "2024-12-02 20:16:15 +0000",
+      "baked_potato": "2024-12-02 21:58:10 +0000",
       "potato": "2024-12-02 19:46:45 +0000",
       "mutton": "2024-12-02 19:18:15 +0000",
       "bread": "2024-12-02 19:21:07 +0000",

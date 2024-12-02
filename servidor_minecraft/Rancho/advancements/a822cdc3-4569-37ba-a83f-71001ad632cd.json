@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_hay_storage": "2024-12-02 21:38:38 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:31:36 +0000"
@@ -242,6 +248,12 @@
       "has_the_recipe": "2024-12-02 18:31:36 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2024-12-02 21:44:11 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_black_from_white": {
     "criteria": {
@@ -477,6 +489,13 @@
       "has_the_recipe": "2024-12-02 18:31:36 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_hay_storage": "2024-12-02 21:38:38 +0000",
+      "entered_deep_crypt": "2024-12-02 21:44:11 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_light_blue": {
     "criteria": {
