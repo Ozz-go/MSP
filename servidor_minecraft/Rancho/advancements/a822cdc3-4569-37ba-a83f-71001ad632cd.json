@@ -109,7 +109,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-12-02 20:40:34 +0000",
       "minecraft:lukewarm_ocean": "2024-12-02 19:52:10 +0000",
+      "minecraft:desert": "2024-12-02 20:33:10 +0000",
       "minecraft:savanna": "2024-12-02 18:31:36 +0000"
     },
     "done": false
@@ -260,6 +262,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-02 20:36:46 +0000",
       "minecraft:skeleton": "2024-12-02 19:11:14 +0000",
       "minecraft:spider": "2024-12-02 19:09:29 +0000",
       "minecraft:creeper": "2024-12-02 20:03:40 +0000",
