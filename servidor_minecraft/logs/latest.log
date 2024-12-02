@@ -997,3 +997,32 @@ com.google.gson.JsonSyntaxException: Block Block{excompressum:mana_sieve} has no
 [02Dec2024 22:41:21.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky moved too quickly! -184.17347912088843,77.0,-522.8991704074438
 [02Dec2024 22:41:23.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wattsf moved too quickly! -1165.8628379004756,-51.25220334025373,-845.478903367956
 [02Dec2024 22:41:23.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: St00ck moved too quickly! -180.80000001192093,77.0,-523.8449988998029
+[02Dec2024 22:56:13.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DustDoky has completed the challenge [Cover Me in Debris]
+[02Dec2024 22:57:43.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf was burnt to a crisp whilst fighting Zombie
+[02Dec2024 22:57:48.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[02Dec2024 22:58:33.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: St00ck lost connection: Timed out
+[02Dec2024 22:58:33.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck left the game
+[02Dec2024 22:58:41.325] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2222e2c1
+[02Dec2024 22:58:41.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: St00ck[/[0:0:0:0:0:0:0:1%0]:58594] logged in with entity id 72581 at (110.19998430685362, -5.0, 698.6999999880791)
+[02Dec2024 22:58:41.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck joined the game
+[02Dec2024 22:58:41.991] [Server thread/INFO] [Waila/]: Syncing config to St00ck (a822cdc3-4569-37ba-a83f-71001ad632cd)
+[02Dec2024 22:58:43.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf has made the advancement [Not Today, Thank You]
+[02Dec2024 22:59:01.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [St00ck: Kicked DustDoky: por chistosito]
+[02Dec2024 22:59:01.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky lost connection: por chistosito
+[02Dec2024 22:59:01.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DustDoky left the game
+[02Dec2024 22:59:08.519] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2fc09123
+[02Dec2024 22:59:08.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DustDoky[/[0:0:0:0:0:0:0:1%0]:59252] logged in with entity id 72696 at (92.74121664505407, -4.0, 692.560927849747)
+[02Dec2024 22:59:08.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DustDoky joined the game
+[02Dec2024 22:59:09.211] [Server thread/INFO] [Waila/]: Syncing config to DustDoky (08714563-3d44-3225-8396-004ab1132a5b)
+[02Dec2024 22:59:24.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [St00ck: Kicked zvnwho: por chistosito]
+[02Dec2024 22:59:24.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zvnwho lost connection: por chistosito
+[02Dec2024 22:59:24.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zvnwho left the game
+[02Dec2024 22:59:33.898] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@435d61aa
+[02Dec2024 22:59:34.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zvnwho[/[0:0:0:0:0:0:0:1%0]:60514] logged in with entity id 72810 at (104.30000001192093, -4.0, 700.0501277191153)
+[02Dec2024 22:59:34.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zvnwho joined the game
+[02Dec2024 22:59:34.407] [Server thread/INFO] [Waila/]: Syncing config to zvnwho (2eb8a32c-6fdf-349b-9969-80b4da318963)
+[02Dec2024 22:59:43.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DustDoky has completed the challenge [Serious Dedication]
+[02Dec2024 22:59:46.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [St00ck: Kicked Mydady7u7: por chistosito]
+[02Dec2024 22:59:46.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mydady7u7 lost connection: por chistosito
+[02Dec2024 22:59:46.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mydady7u7 left the game
+[02Dec2024 23:02:53.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has completed the challenge [Cover Me in Debris]
