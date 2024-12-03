@@ -202,6 +202,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-03 01:08:07 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_cyan": {
     "criteria": {
       "has_the_recipe": "2024-12-02 19:16:14 +0000"
@@ -292,10 +298,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-02 19:35:28 +0000",
+      "cooked_beef": "2024-12-03 01:10:44 +0000",
       "beef": "2024-12-02 19:25:07 +0000",
       "potato": "2024-12-02 20:21:08 +0000",
       "bread": "2024-12-02 20:03:13 +0000",
-      "rotten_flesh": "2024-12-02 22:16:00 +0000"
+      "rotten_flesh": "2024-12-02 22:16:00 +0000",
+      "cooked_rabbit": "2024-12-03 01:09:43 +0000"
     },
     "done": false
   },

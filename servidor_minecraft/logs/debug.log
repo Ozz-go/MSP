@@ -11851,3 +11851,30 @@ com.google.gson.JsonSyntaxException: Block Block{excompressum:mana_sieve} has no
 [03Dec2024 01:09:37.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> estoy cerca
 [03Dec2024 01:09:41.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=247, y=64, z=950} BlockPos{x=248, y=62, z=951}
 [03Dec2024 01:09:58.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> 1000 1100
+[03Dec2024 01:10:06.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[03Dec2024 01:10:11.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zvnwho moved too quickly! 5.554170021899495,0.630079298856927,-8.488588603358266
+[03Dec2024 01:10:11.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky moved too quickly! 8.774598129978017,1.3456566371453675,4.959052777779561
+[03Dec2024 01:10:25.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky moved too quickly! 9.793122786573406,2.0,2.38229549030666
+[03Dec2024 01:10:26.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zvnwho moved too quickly! 9.597270682790395,1.918981255770916,2.8006129852665254
+[03Dec2024 01:10:31.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9709ms or 194 ticks behind
+[03Dec2024 01:10:32.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky moved too quickly! 9.117196182080136,-3.455997528913116,2.475426057263803
+[03Dec2024 01:10:48.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
+[03Dec2024 01:11:06.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
+[03Dec2024 01:11:25.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4238ms or 84 ticks behind
+[03Dec2024 01:11:41.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> hall efect
+[03Dec2024 01:11:59.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[03Dec2024 01:12:11.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> no
+[03Dec2024 01:12:21.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Rancho
+[03Dec2024 01:12:21.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Rancho
+[03Dec2024 01:12:24.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Compressed Zombie'/169827, l='ServerLevel[Rancho]', x=1023.08, y=24.35, z=1358.51] died: Compressed Zombie suffocated in a wall
+[03Dec2024 01:12:27.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> 1100 1000
+[03Dec2024 01:13:16.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> simetria
+[03Dec2024 01:15:17.176] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Compressed Skeleton'/171420, l='ServerLevel[Rancho]', x=1122.64, y=116.00, z=1020.06] died: Compressed Skeleton was slain by zvnwho
+[03Dec2024 01:16:34.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> si we
+[03Dec2024 01:17:07.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> se ra un bioma
+[03Dec2024 01:17:21.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Rancho
+[03Dec2024 01:17:21.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Rancho
+[03Dec2024 01:17:45.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> todo
+[03Dec2024 01:20:13.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> granjas
+[03Dec2024 01:20:30.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> los pones debajo de los mobs
+[03Dec2024 01:20:34.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> y los mata
