@@ -196,3 +196,37 @@
 [03Dec2024 02:29:01.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> waos deja salgo de la cuena/dungueon
 [03Dec2024 02:31:37.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [03Dec2024 02:31:37.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute/seed<--[HERE]
+[03Dec2024 02:31:54.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[03Dec2024 02:31:54.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute seed<--[HERE]
+[03Dec2024 02:32:04.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <St00ck> 243719116929537262
+[03Dec2024 02:32:45.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DustDoky> 243719116929537262
+[03Dec2024 02:33:08.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: St00ck moved too quickly! -721.2193115810987,-18.0,-1246.9175629917868
+[03Dec2024 02:33:20.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: St00ck moved too quickly! -721.2193115810987,-18.0,-1246.9175629917868
+[03Dec2024 02:33:32.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DustDoky> 2679 183
+[03Dec2024 02:33:44.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zvnwho moved too quickly! -719.9582961365843,-18.0,-1247.570098946802
+[03Dec2024 02:34:28.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> by
+[03Dec2024 02:34:36.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> ayuda
+[03Dec2024 02:34:43.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> XD
+[03Dec2024 02:34:47.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <St00ck> que paso papi?
+[03Dec2024 02:36:15.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> y mas palas
+[03Dec2024 02:36:27.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> para agilizar la construccion
+[03Dec2024 02:36:50.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> pasen las coordes de donde sera para llegar
+[03Dec2024 02:37:01.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[03Dec2024 02:37:05.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <St00ck> 774 y 1405
+[03Dec2024 02:37:21.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5625ms or 112 ticks behind
+[03Dec2024 02:37:39.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3198ms or 63 ticks behind
+[03Dec2024 02:38:02.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7501ms or 150 ticks behind
+[03Dec2024 02:38:19.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[03Dec2024 02:38:40.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5802ms or 116 ticks behind
+[03Dec2024 02:38:58.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2645ms or 52 ticks behind
+[03Dec2024 02:39:17.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[03Dec2024 02:39:34.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[03Dec2024 02:39:52.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2767ms or 55 ticks behind
+[03Dec2024 02:40:13.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6151ms or 123 ticks behind
+[03Dec2024 02:40:31.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
+[03Dec2024 02:40:48.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[03Dec2024 02:41:11.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7188ms or 143 ticks behind
+[03Dec2024 02:41:29.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [St00ck: Summoned new Lightning Bolt]
+[03Dec2024 02:41:33.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7463ms or 149 ticks behind
+[03Dec2024 02:41:52.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3588ms or 71 ticks behind
+[03Dec2024 02:41:58.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [St00ck: Summoned new Lightning Bolt]
