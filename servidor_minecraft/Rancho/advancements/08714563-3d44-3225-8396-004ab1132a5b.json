@@ -317,6 +317,7 @@
       "minecraft:spider": "2024-12-02 20:17:03 +0000",
       "minecraft:creeper": "2024-12-02 21:26:30 +0000",
       "minecraft:slime": "2024-12-03 00:51:37 +0000",
+      "minecraft:phantom": "2024-12-03 02:06:54 +0000",
       "minecraft:cave_spider": "2024-12-03 00:06:51 +0000",
       "minecraft:silverfish": "2024-12-02 20:51:26 +0000",
       "minecraft:zombie": "2024-12-02 19:31:33 +0000"
@@ -326,6 +327,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-03 01:49:26 +0000"
     },
     "done": true
   },
@@ -518,6 +525,12 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-03 01:34:21 +0000"
     },
     "done": true
   },
