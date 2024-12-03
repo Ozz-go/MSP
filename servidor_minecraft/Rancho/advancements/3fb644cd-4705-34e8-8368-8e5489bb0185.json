@@ -121,7 +121,10 @@
       "minecraft:river": "2024-12-02 21:28:41 +0000",
       "minecraft:forest": "2024-12-02 21:53:51 +0000",
       "minecraft:desert": "2024-12-02 21:32:06 +0000",
-      "minecraft:savanna": "2024-12-02 21:23:43 +0000"
+      "minecraft:deep_lukewarm_ocean": "2024-12-03 02:58:03 +0000",
+      "minecraft:meadow": "2024-12-03 03:10:09 +0000",
+      "minecraft:savanna": "2024-12-02 21:23:43 +0000",
+      "minecraft:plains": "2024-12-03 03:04:05 +0000"
     },
     "done": false
   },
@@ -134,6 +137,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 21:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-03 03:09:09 +0000"
     },
     "done": true
   },
@@ -294,9 +303,11 @@
       "cooked_beef": "2024-12-02 22:06:23 +0000",
       "baked_potato": "2024-12-03 02:29:33 +0000",
       "rabbit": "2024-12-02 21:38:11 +0000",
+      "bread": "2024-12-03 03:16:24 +0000",
       "cooked_rabbit": "2024-12-02 21:43:53 +0000",
       "cooked_chicken": "2024-12-02 21:57:07 +0000",
-      "cod": "2024-12-02 22:46:39 +0000"
+      "cod": "2024-12-02 22:46:39 +0000",
+      "carrot": "2024-12-03 03:13:17 +0000"
     },
     "done": false
   },
