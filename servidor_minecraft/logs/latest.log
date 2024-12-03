@@ -8,3 +8,22 @@
 [03Dec2024 00:27:35.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [St00ck: Teleported DustDoky to St00ck]
 [03Dec2024 00:37:47.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf was blown up by Creeper
 [03Dec2024 00:37:51.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03Dec2024 00:48:02.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=64, z=1034} BlockPos{x=89, y=62, z=1036}
+[03Dec2024 00:48:02.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=90, y=64, z=1034} BlockPos{x=89, y=62, z=1036}
+[03Dec2024 00:48:23.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: St00ck lost connection: Timed out
+[03Dec2024 00:48:23.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck left the game
+[03Dec2024 00:48:34.689] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Compressed Zombie'/150617, l='ServerLevel[Rancho]', x=1062.50, y=72.00, z=961.50] died: Compressed Zombie burned to death
+[03Dec2024 00:51:50.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Compressed Zombie'/153106, l='ServerLevel[Rancho]', x=107.75, y=-1.00, z=726.50] died: Compressed Zombie was shot by Skeleton
+[03Dec2024 00:55:14.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> que pasa
+[03Dec2024 00:55:31.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> esta raro
+[03Dec2024 00:55:54.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> tienes que crear funtions con cada case
+[03Dec2024 00:56:43.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> todo el codigo de ventas, etc. se mete dentro de un fuction
+[03Dec2024 00:57:03.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-120, y=64, z=939} BlockPos{x=-120, y=62, z=940}
+[03Dec2024 00:57:03.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-120, y=64, z=939} BlockPos{x=-120, y=62, z=940}
+[03Dec2024 00:57:03.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> no usas ambos a la ves
+[03Dec2024 00:57:52.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> tienes que dejas todas las funciones hhacia abajo
+[03Dec2024 00:59:11.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-242, y=64, z=881} BlockPos{x=-243, y=62, z=879}
+[03Dec2024 00:59:26.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-308, y=64, z=851} BlockPos{x=-308, y=62, z=850}
+[03Dec2024 00:59:32.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-318, y=64, z=877} BlockPos{x=-319, y=62, z=877}
+[03Dec2024 00:59:32.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-318, y=64, z=877} BlockPos{x=-319, y=62, z=877}
+[03Dec2024 00:59:33.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-322, y=64, z=879} BlockPos{x=-324, y=62, z=881}
