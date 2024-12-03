@@ -117,12 +117,15 @@
     "criteria": {
       "minecraft:eroded_badlands": "2024-12-03 00:53:46 +0000",
       "minecraft:badlands": "2024-12-03 00:55:17 +0000",
+      "minecraft:savanna_plateau": "2024-12-03 01:02:38 +0000",
       "minecraft:beach": "2024-12-02 19:00:45 +0000",
       "minecraft:lukewarm_ocean": "2024-12-02 21:51:23 +0000",
       "minecraft:river": "2024-12-02 21:40:03 +0000",
       "minecraft:forest": "2024-12-02 21:53:49 +0000",
       "minecraft:desert": "2024-12-02 19:06:10 +0000",
-      "minecraft:savanna": "2024-12-02 18:36:39 +0000"
+      "minecraft:meadow": "2024-12-03 01:06:10 +0000",
+      "minecraft:savanna": "2024-12-02 18:36:39 +0000",
+      "minecraft:plains": "2024-12-03 00:58:27 +0000"
     },
     "done": false
   },
@@ -518,6 +521,12 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-03 01:03:29 +0000"
     },
     "done": true
   },
