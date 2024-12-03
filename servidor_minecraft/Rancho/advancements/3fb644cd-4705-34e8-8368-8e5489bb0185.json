@@ -116,6 +116,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2024-12-02 21:53:35 +0000",
+      "minecraft:sunflower_plains": "2024-12-03 03:21:38 +0000",
       "minecraft:beach": "2024-12-02 21:52:06 +0000",
       "minecraft:lukewarm_ocean": "2024-12-02 21:51:22 +0000",
       "minecraft:river": "2024-12-02 21:28:41 +0000",
@@ -236,6 +237,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-03 03:29:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2024-12-02 21:23:43 +0000"
@@ -302,6 +309,7 @@
       "cooked_porkchop": "2024-12-02 21:54:14 +0000",
       "cooked_beef": "2024-12-02 22:06:23 +0000",
       "baked_potato": "2024-12-03 02:29:33 +0000",
+      "apple": "2024-12-03 03:34:53 +0000",
       "rabbit": "2024-12-02 21:38:11 +0000",
       "bread": "2024-12-03 03:16:24 +0000",
       "cooked_rabbit": "2024-12-02 21:43:53 +0000",
@@ -392,6 +400,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 21:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-03 03:26:26 +0000"
     },
     "done": true
   },
