@@ -16864,3 +16864,11 @@ com.google.gson.JsonSyntaxException: Block Block{excompressum:mana_sieve} has no
 [03Dec2024 03:40:17.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Rancho
 [03Dec2024 03:40:38.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf was slain by Spider
 [03Dec2024 03:44:30.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf was slain by Spider
+[03Dec2024 03:45:17.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Rancho
+[03Dec2024 03:45:17.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Rancho
+[03Dec2024 03:50:13.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1089, y=122, z=1057} BlockPos{x=1089, y=121, z=1056}
+[03Dec2024 03:50:16.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Rancho
+[03Dec2024 03:50:16.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Rancho
+[03Dec2024 03:50:38.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wattsf was blown up by Creeper
+[03Dec2024 03:55:16.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Rancho
+[03Dec2024 03:55:16.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Rancho
