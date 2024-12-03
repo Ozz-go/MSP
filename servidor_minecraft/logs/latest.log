@@ -294,3 +294,185 @@
 [03Dec2024 02:52:18.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> los animales no se mueven
 [03Dec2024 02:52:27.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [St00ck: Killed 404 entities]
 [03Dec2024 02:52:30.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> c murieron we
+[03Dec2024 02:52:44.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [St00ck: Teleported zvnwho to DustDoky]
+[03Dec2024 02:52:49.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[03Dec2024 02:53:05.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mydady7u7 was slain by Zombie
+[03Dec2024 02:53:12.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> vaca flotando
+[03Dec2024 02:53:21.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <St00ck> te tp amos wey?
+[03Dec2024 02:53:24.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> Almenos sali de la cueva de mierda
+[03Dec2024 02:53:27.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=66, z=178}
+[03Dec2024 02:53:27.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=67, z=178}
+[03Dec2024 02:53:29.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <St00ck> jajajajaj
+[03Dec2024 02:53:47.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=65, z=178}
+[03Dec2024 02:53:47.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-95, y=66, z=178}
+[03Dec2024 02:54:27.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> la vaca sigue flotando
+[03Dec2024 02:55:31.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Compressed Zombie'/234370, l='ServerLevel[Rancho]', x=2677.93, y=64.06, z=157.49] died: Compressed Zombie was burnt to a crisp whilst fighting zvnwho
+[03Dec2024 02:56:58.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1127, y=123, z=1027} BlockPos{x=1128, y=121, z=1028}
+[03Dec2024 02:57:53.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved wrongly! 0.6519532389888809
+[03Dec2024 02:57:53.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved wrongly! 0.28540443054504294
+[03Dec2024 02:57:55.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[03Dec2024 02:58:18.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[03Dec2024 02:58:18.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 7.171220224624818,0.0,7.531480334526805
+[03Dec2024 02:58:36.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.754018991942701,0.0,8.662653754555208
+[03Dec2024 02:58:36.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.975322535252587,0.0,8.995836151058597
+[03Dec2024 02:58:36.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.196625971748631,0.0,9.329018622119861
+[03Dec2024 02:58:36.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.417929312112221,0.0,9.662201160283189
+[03Dec2024 02:58:36.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.639232565956604,0.0,9.995383758838443
+[03Dec2024 02:58:36.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.860535741933688,0.0,10.328566411746351
+[03Dec2024 02:58:36.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 7.081838847830227,0.0,10.661749113571659
+[03Dec2024 02:58:41.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.7538643574582125,0.0,8.66276169204059
+[03Dec2024 02:58:41.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.9751668326505865,0.0,8.995944834108059
+[03Dec2024 02:58:41.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.196469307840914,0.0,9.329127976177006
+[03Dec2024 02:58:41.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.417771783029366,0.0,9.662311118247203
+[03Dec2024 02:58:47.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.753864354463758,0.0,8.662761694129586
+[03Dec2024 02:58:47.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.975166829635441,0.0,8.995944836211493
+[03Dec2024 02:58:47.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.196469304807124,0.0,9.3291279782934
+[03Dec2024 02:58:47.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.417771779978807,0.0,9.662311120375307
+[03Dec2024 02:58:47.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14641ms or 292 ticks behind
+[03Dec2024 02:58:52.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.753864354463758,0.0,8.662761694129586
+[03Dec2024 02:58:52.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.975166829635441,0.0,8.995944836211493
+[03Dec2024 02:58:52.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.196469304807124,0.0,9.3291279782934
+[03Dec2024 02:58:52.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.417771779978807,0.0,9.662311120375307
+[03Dec2024 02:58:52.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.63907425515049,0.0,9.995494262457214
+[03Dec2024 02:59:11.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.753175054312521,0.0,8.661723914548247
+[03Dec2024 02:59:11.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.974472768233397,0.0,8.994899888303166
+[03Dec2024 02:59:11.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.195770958279468,0.0,9.328076578891
+[03Dec2024 02:59:11.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.417069576838173,0.0,9.661253914628332
+[03Dec2024 02:59:11.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.638368581058273,0.0,9.99443183100027
+[03Dec2024 02:59:13.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10507ms or 210 ticks behind
+[03Dec2024 02:59:16.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.753864331860655,0.0,8.662761660099704
+[03Dec2024 02:59:16.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.975166806876189,0.0,8.99594480194662
+[03Dec2024 02:59:16.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.196469281907355,0.0,9.329127943816957
+[03Dec2024 02:59:16.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.417771756952561,0.0,9.662311085708552
+[03Dec2024 02:59:19.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.753864354456539,0.0,8.662761694119354
+[03Dec2024 02:59:19.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 5.975166829628165,0.0,8.99594483620126
+[03Dec2024 02:59:19.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.196469304799791,0.0,9.329127978283168
+[03Dec2024 02:59:19.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.417771779971417,0.0,9.662311120365075
+[03Dec2024 02:59:27.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 9.421708808470044,0.0,-4.08028172051263
+[03Dec2024 02:59:34.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.078064967094406,0.0,-2.5675959071195393
+[03Dec2024 02:59:34.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.465682856317358,0.0,-2.666349579694611
+[03Dec2024 02:59:36.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <St00ck> mas despacio gus vas a quemar el server :C
+[03Dec2024 02:59:38.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.187183946003984,0.0,-1.8182893052925237
+[03Dec2024 02:59:38.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.584896609577754,0.0,-1.8311223558780512
+[03Dec2024 02:59:38.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.982767804498053,0.0,-1.8403073154557887
+[03Dec2024 02:59:38.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 11.380771816783067,0.0,-1.8460482266807503
+[03Dec2024 02:59:38.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 11.778885887554566,0.0,-1.8485440740383865
+[03Dec2024 02:59:38.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 12.177090077715206,0.0,-1.8479892810464662
+[03Dec2024 02:59:38.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 12.575366863035583,0.0,-1.8445703327956835
+[03Dec2024 02:59:50.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22046ms or 440 ticks behind
+[03Dec2024 02:59:57.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> q
+[03Dec2024 03:00:01.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.342043178131462,0.0,7.998696415337122
+[03Dec2024 03:00:01.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.643314122221341,0.0,8.255790011054842
+[03Dec2024 03:00:01.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.950274444193724,0.0,8.504980346386901
+[03Dec2024 03:00:01.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 7.26320741843449,0.0,8.745229578110184
+[03Dec2024 03:00:01.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 7.582202566643332,0.0,8.975753028695408
+[03Dec2024 03:00:01.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 7.907206515534995,0.0,9.195986038240676
+[03Dec2024 03:00:13.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <St00ck> Que vas muy rapido en tu bote
+[03Dec2024 03:00:21.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> encontre una dungueon
+[03Dec2024 03:00:24.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.11805440323974,0.0,1.5514930354210037
+[03Dec2024 03:00:24.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.508167817949243,0.0,1.6113126629724093
+[03Dec2024 03:00:24.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.898807188761793,0.0,1.6712129401425955
+[03Dec2024 03:00:29.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24020ms or 480 ticks behind
+[03Dec2024 03:00:30.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 9.367553394306924,0.0,4.359138851711123
+[03Dec2024 03:00:30.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 9.7412873034541,0.0,4.499561219922498
+[03Dec2024 03:00:30.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.115448337159819,0.0,4.639019014016526
+[03Dec2024 03:00:30.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.490002556016634,0.0,4.777583319406972
+[03Dec2024 03:00:30.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.86491814423482,0.0,4.915321733015503
+[03Dec2024 03:00:30.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zvnwho> pasa cords
+[03Dec2024 03:00:34.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 9.828003482603322,0.0,3.400371181771334
+[03Dec2024 03:00:34.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.206018034401268,0.0,3.5311193165209716
+[03Dec2024 03:00:34.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.584032901813544,0.0,3.6618666769539914
+[03Dec2024 03:00:34.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.962048053278636,0.0,3.79261334050193
+[03Dec2024 03:00:51.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> 760 800
+[03Dec2024 03:01:21.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zvnwho moved too quickly! 8.384325550089216,-1.1007127256322065,-5.525036551048828
+[03Dec2024 03:01:21.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.704373762038017,0.0,7.935729161149766
+[03Dec2024 03:01:25.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.497725639823216,0.0,8.086176919384002
+[03Dec2024 03:01:25.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 6.710744230774253,0.0,8.422745390903287
+[03Dec2024 03:01:29.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 44720ms or 894 ticks behind
+[03Dec2024 03:01:42.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 7.038479238996615,0.0,-7.604416976103948
+[03Dec2024 03:01:42.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 7.325725667554821,0.0,-7.881916657745705
+[03Dec2024 03:01:42.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 7.614177309697652,0.0,-8.15820319065142
+[03Dec2024 03:01:42.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 7.903767012546837,0.0,-8.433337577273846
+[03Dec2024 03:01:42.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zvnwho moved too quickly! -9.29081668821027,-0.04880411517922312,3.8753919978141482
+[03Dec2024 03:01:46.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 7.754799086764365,0.0,-6.92983475523954
+[03Dec2024 03:01:46.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 8.053074348069345,0.0,-7.196352422411792
+[03Dec2024 03:01:46.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 8.351349952148894,0.0,-7.462869726898475
+[03Dec2024 03:01:53.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> no seran los items en el suelo
+[03Dec2024 03:01:53.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 9.608579336319963,0.0,-3.9635305324397905
+[03Dec2024 03:01:53.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 9.97958411625791,0.0,-4.112927555232318
+[03Dec2024 03:01:53.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.350627229051042,0.0,-4.26224111941508
+[03Dec2024 03:01:53.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.721706264473937,0.0,-4.411476011336163
+[03Dec2024 03:01:53.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 11.092817630262743,0.0,-4.56064009822353
+[03Dec2024 03:01:57.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 9.655752723305,0.0,-3.863446134785704
+[03Dec2024 03:01:57.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.027134689767195,0.0,-4.012023756459598
+[03Dec2024 03:01:57.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.398517270423213,0.0,-4.160599859655122
+[03Dec2024 03:01:57.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 10.76990040385374,0.0,-4.309174596220146
+[03Dec2024 03:01:57.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 11.141284034781279,0.0,-4.457748102817732
+[03Dec2024 03:01:57.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 11.51266811345613,0.0,-4.606320502444646
+[03Dec2024 03:01:57.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mydady7u7) moved too quickly! 11.884052595103526,0.0,-4.75489190579799
+[03Dec2024 03:02:01.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [St00ck: Killed 358 entities]
+[03Dec2024 03:02:02.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> soy yo we
+[03Dec2024 03:02:15.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -8.340810590247202,-1.5332103942000685E-7,6.185966798302445
+[03Dec2024 03:02:15.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -8.662006862057297,-1.5404030051513473E-7,6.424182191357602
+[03Dec2024 03:02:15.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -8.983211799546098,-1.5530213914871638E-7,6.662404011318301
+[03Dec2024 03:02:15.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -9.304424536145689,-1.568673795304676E-7,6.9006316154938645
+[03Dec2024 03:02:15.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -9.625644291944809,-1.5853174062385733E-7,7.138864425462657
+[03Dec2024 03:02:15.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -9.946870365023187,-1.6013387948987656E-7,7.377101920645202
+[03Dec2024 03:02:15.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -10.26810212365308,-1.615578923974681E-7,7.615343632520023
+[03Dec2024 03:02:15.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -10.58933899927888,-1.6273146741241362E-7,7.853589139417807
+[03Dec2024 03:02:15.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -10.910580480201133,-1.6362092480903812E-7,8.0918380618362
+[03Dec2024 03:02:15.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -11.231826105889922,-1.6422431059481823E-7,8.330090058222993
+[03Dec2024 03:02:15.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -11.553075461868502,-1.6456363738370783E-7,8.568344821181313
+[03Dec2024 03:02:15.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> ahi les voy :3
+[03Dec2024 03:02:15.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! 8.346919186913965,9.164416781004547E-9,-6.201659028931601
+[03Dec2024 03:02:15.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! 8.346919186913965,9.164416781004547E-9,-6.201659028931601
+[03Dec2024 03:02:15.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! 8.346919186913965,9.164416781004547E-9,-6.201659028931601
+[03Dec2024 03:02:15.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! 8.346919186913965,9.164416781004547E-9,-6.201659028931601
+[03Dec2024 03:02:15.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! 8.346919186913965,9.164416781004547E-9,-6.201659028931601
+[03Dec2024 03:02:15.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! 8.346919186913965,9.164416781004547E-9,-6.201659028931601
+[03Dec2024 03:02:15.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! 8.346919186913965,9.164416781004547E-9,-6.201659028931601
+[03Dec2024 03:02:15.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! 8.346919186913965,9.164416781004547E-9,-6.201659028931601
+[03Dec2024 03:02:15.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! 8.346919186913965,9.164416781004547E-9,-6.201659028931601
+[03Dec2024 03:02:15.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! 8.346919186913965,9.164416781004547E-9,-6.201659028931601
+[03Dec2024 03:02:15.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! 8.346919186913965,9.164416781004547E-9,-6.201659028931601
+[03Dec2024 03:02:19.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <St00ck> ya lo limpie 3 veces edgar
+[03Dec2024 03:02:21.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36924ms or 738 ticks behind
+[03Dec2024 03:02:27.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -6.178704765402927,0.0,8.198353729291796
+[03Dec2024 03:02:27.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -6.438752894591289,0.0,8.500811015653653
+[03Dec2024 03:02:27.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -6.699519032586977,0.0,8.80278647708758
+[03Dec2024 03:02:27.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -6.960945644491403,0.0,9.104315482961908
+[03Dec2024 03:02:30.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> no me carga el mapa :c
+[03Dec2024 03:02:30.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -6.395111948560498,0.0,8.141642742265333
+[03Dec2024 03:02:30.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -6.593958294417007,0.0,8.486266713368082
+[03Dec2024 03:02:30.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -6.789472516275055,0.0,8.832842757118215
+[03Dec2024 03:02:30.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -6.981823572976737,0.0,9.18124988143785
+[03Dec2024 03:02:33.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -4.351206682962129,0.0,9.445262347058815
+[03Dec2024 03:02:33.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -4.518290766877726,0.0,9.808689220908775
+[03Dec2024 03:02:33.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -4.6853654489245855,0.0,10.1721209294912
+[03Dec2024 03:02:33.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -4.852431669289672,0.0,10.53555698933269
+[03Dec2024 03:02:38.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> ya tengo mas que la anterior
+[03Dec2024 03:02:38.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -4.341743276839679,0.0,9.450354937567113
+[03Dec2024 03:02:38.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -4.508733353005027,0.0,9.813830153116669
+[03Dec2024 03:02:38.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -4.675723428078527,0.0,10.177305369227554
+[03Dec2024 03:02:38.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -4.842713502169772,0.0,10.540780585843663
+[03Dec2024 03:02:40.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <St00ck> ahora es culpa del fer wey
+[03Dec2024 03:02:43.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -4.341741696513054,0.0,9.45035575022007
+[03Dec2024 03:02:43.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -4.508731761762647,0.0,9.813830971382913
+[03Dec2024 03:02:43.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -4.675721827012239,0.0,10.177306192545814
+[03Dec2024 03:02:43.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -4.842711892261832,0.0,10.540781413708714
+[03Dec2024 03:02:43.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -5.00970195751097,0.0,10.904256634871615
+[03Dec2024 03:02:43.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -5.176692022760108,0.0,11.267731856034516
+[03Dec2024 03:02:49.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -5.668115672403474,0.0,8.540297300494728
+[03Dec2024 03:02:49.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -5.952588773149273,0.0,8.815626884960238
+[03Dec2024 03:02:49.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -6.240251946251192,0.0,9.087899524080456
+[03Dec2024 03:02:49.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -6.530889151420979,0.0,9.357287236008347
+[03Dec2024 03:02:49.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -6.824293781881806,0.0,9.623959663732876
+[03Dec2024 03:02:49.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -7.120272511738676,0.0,9.888078327916617
+[03Dec2024 03:02:49.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zvnwho) moved too quickly! -7.41864175879391,0.0,10.149800579548241
+[03Dec2024 03:02:55.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19172ms or 383 ticks behind
+[03Dec2024 03:02:58.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> esos 8 gb de ram no podran conmigo
+[03Dec2024 03:03:06.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> adadadscs
+[03Dec2024 03:03:10.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> c buegi
+[03Dec2024 03:03:14.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4058ms or 81 ticks behind
+[03Dec2024 03:03:14.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> bugeo
+[03Dec2024 03:03:17.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mydady7u7> xd
