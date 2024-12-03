@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-03 03:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2024-12-02 21:55:45 +0000",
@@ -329,12 +335,19 @@
       "minecraft:phantom": "2024-12-03 02:06:54 +0000",
       "minecraft:wither_skeleton": "2024-12-03 03:35:53 +0000",
       "minecraft:cave_spider": "2024-12-03 00:06:51 +0000",
+      "minecraft:piglin": "2024-12-03 03:59:36 +0000",
       "minecraft:silverfish": "2024-12-02 20:51:26 +0000",
       "minecraft:enderman": "2024-12-03 02:58:13 +0000",
       "minecraft:stray": "2024-12-03 03:28:34 +0000",
       "minecraft:zombie": "2024-12-02 19:31:33 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-03 03:58:24 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_light_gray": {
     "criteria": {
@@ -419,6 +432,13 @@
       "has_the_recipe": "2024-12-02 18:33:56 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-03 03:58:25 +0000",
+      "minecraft:warped_forest": "2024-12-03 03:59:27 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_green": {
     "criteria": {
