@@ -686,3 +686,14 @@
 [03Dec2024 04:13:42.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DustDoky has made the advancement [A Terrible Fortress]
 [03Dec2024 04:14:39.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DustDoky has made the advancement [Into Fire]
 [03Dec2024 04:15:35.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zvnwho has made the advancement [Into Fire]
+[03Dec2024 04:20:21.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zvnwho lost connection: Timed out
+[03Dec2024 04:20:21.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zvnwho left the game
+[03Dec2024 04:27:02.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: St00ck lost connection: Timed out
+[03Dec2024 04:27:02.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck left the game
+[03Dec2024 04:27:20.844] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ffeb2e0
+[03Dec2024 04:27:20.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: St00ck[/[0:0:0:0:0:0:0:1%0]:57328] logged in with entity id 305799 at (767.1111647910935, 95.0, 1415.134908662377)
+[03Dec2024 04:27:21.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck joined the game
+[03Dec2024 04:27:21.384] [Server thread/INFO] [Waila/]: Syncing config to St00ck (a822cdc3-4569-37ba-a83f-71001ad632cd)
+[03Dec2024 04:31:13.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DustDoky lost connection: Timed out
+[03Dec2024 04:31:13.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DustDoky left the game
+[03Dec2024 04:31:13.429] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
