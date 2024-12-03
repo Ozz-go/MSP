@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-03 04:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-02 18:41:33 +0000"
@@ -165,6 +171,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-03 04:13:26 +0000"
     },
     "done": true
   },
@@ -302,14 +314,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-03 04:14:47 +0000",
       "minecraft:skeleton": "2024-12-02 19:18:33 +0000",
       "minecraft:vindicator": "2024-12-03 02:30:39 +0000",
+      "minecraft:magma_cube": "2024-12-03 04:15:03 +0000",
       "minecraft:spider": "2024-12-02 19:07:35 +0000",
       "minecraft:creeper": "2024-12-02 20:18:06 +0000",
       "minecraft:evoker": "2024-12-03 02:54:18 +0000",
       "minecraft:witch": "2024-12-03 02:55:18 +0000",
       "minecraft:wither_skeleton": "2024-12-02 20:03:58 +0000",
       "minecraft:cave_spider": "2024-12-02 20:04:36 +0000",
+      "minecraft:piglin": "2024-12-03 04:07:30 +0000",
       "minecraft:enderman": "2024-12-02 19:09:31 +0000",
       "minecraft:stray": "2024-12-02 19:31:02 +0000",
       "minecraft:zombie": "2024-12-02 19:06:59 +0000"
@@ -405,6 +420,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-03 04:08:48 +0000",
       "minecraft:nether_wastes": "2024-12-03 03:58:29 +0000",
       "minecraft:warped_forest": "2024-12-03 03:59:06 +0000"
     },

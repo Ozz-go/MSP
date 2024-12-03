@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-03 04:14:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-02 18:39:03 +0000"
@@ -160,6 +166,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 18:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-03 04:13:42 +0000"
     },
     "done": true
   },
@@ -327,6 +339,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-03 04:12:35 +0000",
       "minecraft:skeleton": "2024-12-02 19:24:11 +0000",
       "minecraft:vindicator": "2024-12-03 02:30:41 +0000",
       "minecraft:spider": "2024-12-02 20:17:03 +0000",
@@ -435,6 +448,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-03 04:08:40 +0000",
       "minecraft:nether_wastes": "2024-12-03 03:58:25 +0000",
       "minecraft:warped_forest": "2024-12-03 03:59:27 +0000"
     },
