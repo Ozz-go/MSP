@@ -1,3 +1,6 @@
 [03Dec2024 00:00:42.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Compressed Zombie'/116327, l='ServerLevel[Rancho]', x=115.55, y=-15.00, z=673.51] died: Compressed Zombie was shot by zvnwho
 [03Dec2024 00:02:55.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zvnwho> 108 -4 698
 [03Dec2024 00:05:54.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> mejor un pico mejor
+[03Dec2024 00:09:58.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wattsf> que no era la 12
+[03Dec2024 00:15:17.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[03Dec2024 00:15:34.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
